@@ -53,6 +53,18 @@
 
 
 
+ <!-- Íconos de sistemas operativos -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Sistemas Operativos que Manejo</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- Íconos de sistemas operativos -->
+<img src="https://skillicons.dev/icons?i=windows,debian,ubuntu,linux,macos&perline=5" />
+  </a>
+</p>
 
 
 
