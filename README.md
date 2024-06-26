@@ -16,7 +16,7 @@
 </div>
 
 
-
+<!--- spotify -->
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hack-gamer001&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hack-gamer001&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">
@@ -25,36 +25,31 @@
 
 
 
-<!--h1 tecnologias-->
+<!-- Lenguajes que uso -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que conozco👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tecnologias-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,css,discord,windows,androidstudio,debian,figma,idea,kali,powershell,ubuntu,cloudflare,docker,prisma,pug,express,figma,firebase,github,html,js,linux,md,materialui,nginx,nextjs,nodejs,postman,react,redux,tailwind,vscode,kubernetes&perline=14" />
-  </a>
-</p>
-
-
-
-
-<!--h1 tecnologias-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Lenguajes que uso👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Algunos aspectos👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
 <!-- Tecnologías: Lenguajes de Programación -->
+<table>
+  <tr>
+    <td align="center">
+      <h3>Lenguajes de programación que conozco</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,java,kotlin,php,py,typescript,mysql,postgres,mongodb,dynamodb,redis&perline=7" />
+      </a>
+    </td>
+    <td align="center">
+      <h3>Tecnologias que conozco</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,css,discord,windows,androidstudio,debian,figma,idea,kali,powershell,ubuntu,cloudflare,docker,prisma,pug,express,figma,firebase,github,html,js,linux,md,materialui,nginx,nextjs,nodejs,postman,react,redux,tailwind,vscode,kubernetes&perline=14" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,java,kotlin,php,py,typescript,mysql,postgres,mongodb,dynamodb,redis&perline=7" />
-  </a>
-</p>
 
 
 
