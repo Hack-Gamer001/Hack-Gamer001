@@ -34,9 +34,29 @@
 <!--tecnologias-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,windows,androidstudio,c,cs,cpp,css,debian,figma,idea,kali,kotlin,mysql,php,powershell,pycharm,ubuntu,cloudflare,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,css,discord,windows,androidstudio,debian,figma,idea,kali,powershell,ubuntu,cloudflare,docker,prisma,pug,express,figma,firebase,github,html,js,linux,md,materialui,nginx,nextjs,nodejs,postman,react,redux,tailwind,vscode,kubernetes&perline=14" />
   </a>
 </p>
+
+
+
+
+<!--h1 tecnologias-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Lenguajes que uso👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<!-- Tecnologías: Lenguajes de Programación -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,java,kotlin,php,py,typescript,mysql,postgres,mongodb,dynamodb,redis&perline=7" />
+  </a>
+</p>
+
+
 
 
 
