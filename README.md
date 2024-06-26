@@ -16,9 +16,10 @@
 </div>
 
 
+
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hack-gamer001&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hack-gamer001&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hack-gamer001&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">
   </a>
 </p>
 
