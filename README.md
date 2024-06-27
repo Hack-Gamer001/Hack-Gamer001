@@ -99,8 +99,7 @@
 
 <td width="50%" align="center">
   <!-- Enlace a Behance -->
-  <a href="https://www.behance.net/djmixwtffa20cb" target="_blank">
-  </a>
+  <a href="https://www.behance.net/djmixwtffa20cb" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2972/PNG/512/behance_logo_icon_186873.png" alt="Behance" height="50" width="50" /></a>
   <br></br>
   <!-- GIF adicional -->
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="GIF ejemplo" width="200" />
