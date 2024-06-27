@@ -91,6 +91,23 @@
 </p>
 
 
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary><h2 style="display: inline-block">Behance y Portafolio</h2></summary>
+  </ul>
+</div>
+
+<td width="50%" align="center">
+  <!-- Enlace a Behance -->
+  <a href="https://www.behance.net/djmixwtffa20cb" target="_blank">
+  </a>
+  <br></br>
+  <!-- GIF adicional -->
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="GIF ejemplo" width="200" />
+</td>
+
+
+
 
 <!--- stats & Trophy (start) -->
 <p align="center">
