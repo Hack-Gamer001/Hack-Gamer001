@@ -33,23 +33,25 @@
 </div>
 
 <!-- Tecnologías: Lenguajes de Programación -->
-<table>
-  <tr>
-    <td align="center">
-      <h3>Lenguajes de programación que conozco</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,java,kotlin,php,py,typescript,mysql,postgres,mongodb,dynamodb,redis&perline=7" />
-      </a>
-    </td>
-    <td align="center">
-      <h3>Tecnologias que conozco</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,css,discord,windows,androidstudio,debian,figma,idea,kali,powershell,ubuntu,cloudflare,docker,prisma,pug,express,figma,firebase,github,html,js,linux,md,materialui,nginx,nextjs,nodejs,postman,react,redux,tailwind,vscode,kubernetes&perline=14" />
-      </a>
-    </td>
-  </tr>
-</table>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Lenguajes de programación que uso</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,css,c,cs,cpp,java,kotlin,php,py,typescript,mysql,html,js,androidstudio,sqlite,redis&perline=7" />
+        </a>
+      </td>
+      <td align="center">
+        <h3>Tecnologias que uso</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=discord,figma,idea,powershell,cloudflare,firebase,github,vscode,unity,unreal,postman,materialui,nginx,nextjs,nodejs,react,redux,tailwind,kubernetes&perline=7" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
@@ -62,7 +64,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Íconos de sistemas operativos -->
-<img src="https://skillicons.dev/icons?i=windows,debian,ubuntu,linux,macos&perline=5" />
+<img src="https://skillicons.dev/icons?i=windows,debian,ubuntu,linux,kali,macos&perline=5" />
   </a>
 </p>
 
