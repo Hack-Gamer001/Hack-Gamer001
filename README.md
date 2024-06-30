@@ -109,7 +109,6 @@
 
 
 <!--- stats & Trophy (start) -->
-<!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
   <table align="center">
@@ -118,7 +117,7 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hack-Gamer001&theme=dark&show_icons=true&count_private=true" />
         <br></br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hack-Gamer001&theme=dark&hide_border=false" /> 
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hack-Gamer001&theme=dark&hide_border=FALSO&locale=es&mode=weekly" alt="GitHub Streak" /></a>
       </td>
 
   <td width="50%" align="center">
