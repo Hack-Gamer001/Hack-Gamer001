@@ -16,12 +16,52 @@
 </div>
 
 
-<!--- spotify -->
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hack-gamer001&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hack-gamer001&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">
-  </a>
-</p>
+<!--- Escuchando y Contactate conmigo (start) -->
+<table align="center">
+  <tr>
+    
+<!--- Escuchando (start) -->
+  <td width="50%" align="center">
+      <ul align="center">
+        <summary><h2 style="display: inline-block">Escuchando</h2></summary>
+      </ul>
+      <p align="center">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hack-gamer001&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hack-gamer001&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">
+        </a>
+      </p>
+    </td>
+
+    
+<!--- Escuchando (end) -->
+<!--- Contactate conmigo (start) -->
+   <td width="50%" align="center">
+      <div id="user-content-toc">
+        <ul align="center">
+          <summary><h2 style="display: inline-block">Contactate conmigo🤝</h2></summary>
+        </ul>
+      </div>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/wilbert-j001/" target="blank">
+          <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+        </a>
+        <a href="https://twitter.com/" target="blank">
+          <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
+        </a>
+        <a href="https://www.instagram.com/" target="blank">
+          <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
+        </a>
+        <a href="https://discordapp.com/users/745369894492831815" target="blank">
+          <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
+        </a>
+      </p>
+    </td>
+    <!--- Contactate conmigo (end) -->
+  </tr>
+</table>
+<!--- Escuchando y Contactate conmigo (end) -->
+
+
 
 
 
@@ -141,23 +181,6 @@
 </p>        
 <!--- stats (end) -->
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Contactate conmigo🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/wilbert-j001/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/745369894492831815" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
 
 
 <!--profile visit count-->
