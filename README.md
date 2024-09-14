@@ -11,7 +11,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="[https://i.gifer.com/origin/7d/7d1c0015912d9b30038595971af2ad57_w200.gif](https://i.gifer.com/J4o.gif)"
+  <img  src="https://i.gifer.com/J4o.gif"
        alt="snake" /></a>
 </div>
 
