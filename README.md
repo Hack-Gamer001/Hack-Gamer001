@@ -80,7 +80,7 @@
       <td align="center">
         <h3>Lenguajes de programación que uso</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,css,c,cs,cpp,java,kotlin,php,py,typescript,mysql,html,js,androidstudio,sqlite,redis&perline=7" />
+         <img src="https://skillicons.dev/icons?i=git,bash,py,java,cs,cpp,kotlin,php,typescript,js,html,css,mysql,sqlite,redis,latex&perline=8" />
         </a>
       </td>
       <td align="center">
