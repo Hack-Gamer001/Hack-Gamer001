@@ -80,8 +80,22 @@
       <td align="center">
         <h3>Lenguajes de programación que uso</h3>
         <a href="https://skillicons.dev">
-         <img src="https://skillicons.dev/icons?i=git,bash,py,java,cs,cpp,kotlin,php,typescript,js,html,css,mysql,sqlite,redis,latex&perline=8" />
-        </a>
+         <table>
+  <tr>
+    <td align="center">
+      <h3>Lenguajes</h3>
+      <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,c,kotlin,php,typescript,js,bash,html,css,mysql,sqlite,redis,latex&perline=4" />
+    </td>
+    <td align="center">
+      <h3>Frameworks & Librerías</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,spring,laravel,flask,django,tailwind,redux,bootstrap&perline=4" />
+    </td>
+    <td align="center">
+      <h3>Herramientas & Infra</h3>
+      <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,postman,figma,vscode,idea,firebase,cloudflare,kubernetes&perline=4" />
+    </td>
+  </tr>
+</table>
       </td>
       <td align="center">
         <h3>Tecnologias que uso</h3>
