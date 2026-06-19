@@ -142,18 +142,36 @@
     <summary><h2 style="display: inline-block">Programas que utilizo👨🏻‍💻</h2></summary>
   </ul>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- <p align="center">
- <code><img width="15%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1a099de0-957a-4b7d-b236-16db45b98c9e/d7cb5ia-4e3ef5f8-a975-4300-97e1-696673a88bdf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFhMDk5ZGUwLTk1N2EtNGI3ZC1iMjM2LTE2ZGI0NWI5OGM5ZVwvZDdjYjVpYS00ZTNlZjVmOC1hOTc1LTQzMDAtOTdlMS02OTY2NzNhODhiZGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UsaXMmoj9dBMpTooEC97RKoWYgfBN3qSqMeo_I7EkVs"></code><code><img width="15%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1a099de0-957a-4b7d-b236-16db45b98c9e/d7cb523-c4960668-5549-4c6b-be16-fef3675fb9b3.png/v1/fit/w_700,h_700/photoshop_cc_splash_logo_by_gerard_armando_d7cb523-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzAwIiwicGF0aCI6IlwvZlwvMWEwOTlkZTAtOTU3YS00YjdkLWIyMzYtMTZkYjQ1Yjk4YzllXC9kN2NiNTIzLWM0OTYwNjY4LTU1NDktNGM2Yi1iZTE2LWZlZjM2NzVmYjliMy5wbmciLCJ3aWR0aCI6Ijw9NzAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.mlfe6os6AewVHyPoxk6P8t4TK2rlmd35lJ1rBjbsAmw"></code><code><img width="15%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1a099de0-957a-4b7d-b236-16db45b98c9e/d7cb5cl-9f57c52c-772e-4228-a23b-0635a7efa987.png/v1/fit/w_700,h_700/illustrator_cc_splash_logo_by_gerard_armando_d7cb5cl-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzAwIiwicGF0aCI6IlwvZlwvMWEwOTlkZTAtOTU3YS00YjdkLWIyMzYtMTZkYjQ1Yjk4YzllXC9kN2NiNWNsLTlmNTdjNTJjLTc3MmUtNDIyOC1hMjNiLTA2MzVhN2VmYTk4Ny5wbmciLCJ3aWR0aCI6Ijw9NzAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.WPToxsz9-1ic6-JQgAclhvxrD2Trm3leiFZ2pWHpZKI"></code><code><img width="13%" src="https://i.imgur.com/jYGQ6Zd.png"></code>
-<br /><code><img width="15%" src="https://i.imgur.com/GD4VMd8.png"></code><code><img width="15%" src="https://i.imgur.com/m7iWdn4.png"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<br />
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Programas que utilizo 👨🏻‍💻</h2></summary>
+  </ul>
 </div>
-</p>
 
-
+<div align="center">
+  <h3>Diseño & Audiovisual</h3>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <br/><br/>
+  <h3>Desarrollo & Productividad</h3>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+</div>
 <div id="user-content-toc" align="center">
   <ul>
     <summary><h2 style="display: inline-block">Behance y Portafolio</h2></summary>
