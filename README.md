@@ -173,13 +173,47 @@
   </ul>
 </div>
 
-<td width="50%" align="center">
-  <!-- Enlace a Behance -->
-  <a href="https://www.behance.net/djmixwtffa20cb" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2972/PNG/512/behance_logo_icon_186873.png" alt="Behance" height="50" width="50" /></a>
-  <br></br>
-  <!-- GIF adicional -->
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="GIF ejemplo" width="200" />
-</td>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Portafolio & Diseño 🎨</h2></summary>
+  </ul>
+</div>
+
+<div align="center">
+  <p>Puedes ver mi trabajo de diseño gráfico, branding, audiovisual y proyectos creativos en:</p>
+  <br/>
+  <a href="https://www.behance.net/djmixwtffa20cb" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-Wilbert%20Cárdenas-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/wilbert-j001/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Wilbert%20Cárdenas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br/><br/>
+  <table>
+    <tr>
+      <td align="center">
+        <b>🎨 Diseño Gráfico & Branding</b>
+      </td>
+      <td align="center">
+        <b>🎬 Edición Audiovisual</b>
+      </td>
+      <td align="center">
+        <b>🥽 VR / AR & Animación</b>
+      </td>
+      <td align="center">
+        <b>💻 Proyectos de Software</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Adobe Suite · Figma · Illustrator</td>
+      <td align="center">Premiere Pro · After Effects · Lightroom</td>
+      <td align="center">Unity · Unreal Engine · Blender</td>
+      <td align="center">Ver repositorios abajo ↓</td>
+    </tr>
+  </table>
+</div>
 
 
 
