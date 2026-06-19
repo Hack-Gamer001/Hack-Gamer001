@@ -104,7 +104,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Íconos de sistemas operativos -->
-<img src="https://skillicons.dev/icons?i=windows,debian,ubuntu,linux,kali,macos&perline=5" /><img src="https://skillicons.dev/icons?i=windows,debian,ubuntu,linux,kali,arch,redhat,androidstudio&perline=8" />
+<img src="https://skillicons.dev/icons?i=windows,debian,ubuntu,linux,kali,arch,redhat,androidstudio&perline=8" />
   </a>
 </p>
 
