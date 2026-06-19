@@ -89,23 +89,28 @@
           <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,spring,laravel,flask,django,tailwind,redux,bootstrap,fastapi,pytorch,tensorflow,opencv&perline=6" />
         </a>
       </td>
-      <td align="center">
-        <h3>Herramientas & Infraestructura</h3>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,postman,figma,vscode,idea,firebase,cloudflare,kubernetes,ansible,grafana,prometheus,raspberrypi&perline=6" />
-        </a>
-        <br/>
-        <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-        <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white" />
-        <img src="https://img.shields.io/badge/n8n-EF6821?style=for-the-badge&logo=n8n&logoColor=white" />
-        <img src="https://img.shields.io/badge/LM%20Studio-8B5CF6?style=for-the-badge&logoColor=white" />
-      </td>
     </tr>
   </table>
 </div>
 
+<br/>
 
+<div align="center">
+  <h3>Herramientas & Infraestructura</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,postman,figma,vscode,idea,firebase,cloudflare,kubernetes,ansible,grafana,prometheus,raspberrypi&perline=8" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EF6821?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/LM%20Studio-8B5CF6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/ZFS-2C6EAB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/BIND9-0078D4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireguard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
+</div>
 
  <!-- Íconos de sistemas operativos -->
 <div id="user-content-toc">
