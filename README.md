@@ -78,30 +78,28 @@
   <table>
     <tr>
       <td align="center">
-        <h3>Lenguajes de programación que uso</h3>
+        <h3>Lenguajes de Programación</h3>
         <a href="https://skillicons.dev">
-         <table>
-  <tr>
-    <td align="center">
-      <h3>Lenguajes</h3>
-      <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,c,kotlin,php,typescript,js,bash,html,css,mysql,sqlite,redis,latex&perline=4" />
-    </td>
-    <td align="center">
-      <h3>Frameworks & Librerías</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,spring,laravel,flask,django,tailwind,redux,bootstrap&perline=4" />
-    </td>
-    <td align="center">
-      <h3>Herramientas & Infra</h3>
-      <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,postman,figma,vscode,idea,firebase,cloudflare,kubernetes&perline=4" />
-    </td>
-  </tr>
-</table>
+          <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,c,kotlin,php,typescript,js,bash,html,css,mysql,sqlite,redis,latex,r,matlab&perline=6" />
+        </a>
       </td>
       <td align="center">
-        <h3>Tecnologias que uso</h3>
+        <h3>Frameworks & Librerías</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=discord,figma,idea,powershell,cloudflare,firebase,github,vscode,unity,unreal,postman,materialui,nginx,nextjs,nodejs,react,redux,tailwind,kubernetes&perline=7" />
+          <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,spring,laravel,flask,django,tailwind,redux,bootstrap,fastapi,pytorch,tensorflow,opencv&perline=6" />
         </a>
+      </td>
+      <td align="center">
+        <h3>Herramientas & Infraestructura</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,postman,figma,vscode,idea,firebase,cloudflare,kubernetes,ansible,grafana,prometheus,raspberrypi&perline=6" />
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+        <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white" />
+        <img src="https://img.shields.io/badge/n8n-EF6821?style=for-the-badge&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/LM%20Studio-8B5CF6?style=for-the-badge&logoColor=white" />
       </td>
     </tr>
   </table>
